@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 12px;
+    color: green;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    border: dotted;
+    border-width: 2px;
+}
+
+ol {
+    list-style-type: lower-roman;
+}
+
+ul {
+    list-style-type: square;
+}
